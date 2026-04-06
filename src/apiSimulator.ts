@@ -3,7 +3,7 @@
 interface Product {
     id: number;  // Products Id Number 
     name: string;  // Name of the product 
-    Price: number; // Product price 
+    price: number; // Product price 
 }
 
 interface Review {

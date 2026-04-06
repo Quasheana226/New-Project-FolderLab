@@ -14,6 +14,9 @@ console.log("Grabbing product catalog.")
 
     // .catch() Basically when promise fails
     // ERROR paramater contains the error message
+
+
+    
     .catch((error) => {
         console.log("Error! sorry something is wrong")
         console.log(error)
